@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?DOCTYPE catalouge SYSTEM "book.dtd"?>
+<catalouge>
+<book>
+<Author>James Gosling</Author>
+<Title>Game of Thrones</Title>
+<Year>2023</Year>
+</book>
+<book>
+<Author>Rutherford</Author>
+<Title>Harry Potter</Title>
+<Year>2021</Year>
+</book>
+</catalouge>

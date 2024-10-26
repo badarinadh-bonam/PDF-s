@@ -1,0 +1,6 @@
+div{
+    background-color:blue;
+    background-position: center;
+    background-image: url(bg.jpg);
+    background-repeat: repeat-x;
+}

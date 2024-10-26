@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <titile>counter</titile>
+
+    </head>
+    <body>
+        <h1 id="counter">0</h1>
+        <button onclick="onincrement()">increment</button>
+        <button onclick="ondecrement()">decrement</button>
+        <button onclick="onreset()">reset</button>
+        <script>
+            let counter=document.getElementById("counter");
+            function onincrement(){
+                let previous=counter.textContent;
+                let update=parseInt(previous)+1;
+                counter.textContent=update;
+                counter.style.color="green";
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,1 @@
+fs.appendFileSync("abcd.txt","Yes Bonam you are always welcome");

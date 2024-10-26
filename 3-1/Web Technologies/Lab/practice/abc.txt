@@ -1,0 +1,5 @@
+<!ELEMENT catalouge(book)*>
+<!ELEMENT book(Author,Title,Year)>
+<!ELEMENT Author(#PCDATA)>
+<!ELEMENT Title(#PCDATA)>
+<!ELEMENT Year(#PCDATA)>
